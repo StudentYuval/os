@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "defs.h": "c",
+        "dispatcher.h": "c",
+        "dispatcher.c": "c",
+        "main.c": "c",
+        "main.h": "c",
+        "workers.h": "c",
+        "workers.c": "c",
+        "generalfunctions.h": "c",
+        "stdio.h": "c",
+        "sys/time.h": "c"
+    }
+}
